@@ -2,13 +2,12 @@
 <h3 align="center">Hey there! I'm a Computer Science Student and Software Developer from England!</h3>
 
 
-- 🌱 I’m currently learning **Java and rust**
+- 🌱 I’m currently learning: **Java and rust**
 
-- 📫 How to reach me **Private Message me!**
+- 📫 How to reach me: **Private Message me!**
 
-- ⚡ Fun fact **I love to YOLO it!**
+- ⚡ Fun fact: **I love to YOLO it!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
