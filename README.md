@@ -2,11 +2,12 @@
 <h3 align="center">Hey there! I'm a Computer Science Student and Software Developer from England!</h3>
 
 
-- 🌱 I’m currently learning: **Java and rust**
+- 🌱 Everything I'm up to is at: <a href="https://thudro.github.io/>My GitHub page! </a>
 
 - 📫 How to reach me: **Private Message me!**
 
 - ⚡ Fun fact: **I love to YOLO it!**
+
 
 <p align="left">
 </p>
