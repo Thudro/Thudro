@@ -2,7 +2,7 @@
 <h3 align="center">Hey there! I'm a Computer Science Student and Software Developer from England!</h3>
 
 
-- 🌱 Everything I'm up to is at: <a href="https://thudro.github.io/>My GitHub page! </a>
+- 🌱 Everything I'm up to is at: https://thudro.github.io
 
 - 📫 How to reach me: **Private Message me!**
 
